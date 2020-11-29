@@ -26,7 +26,7 @@ O administrador terá total acesso sobre os relatórios do usuário e correção
 
 ## User Storie
 
-Link para acessar(https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/User_Stories.png)
+[Link para acessar](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/User_Stories.png)
 
 # Wireframes
 
