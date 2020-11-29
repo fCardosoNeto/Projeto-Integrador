@@ -18,8 +18,6 @@ O administrador terá total acesso sobre os relatórios do usuário e correção
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_3.png" width="750px" height="400px"/></p>
 
-[Branch 4](link)
-
 # Gráfico Burndown 
 
 <img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gr%C3%A1fico_Burndown/Burndown_Sprint3.png" width="750px" height="400px"/></p>
