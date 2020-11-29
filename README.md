@@ -32,9 +32,9 @@ O administrador terá total acesso sobre os relatórios do usuário e correção
 
 [![Demo CountPages alpha](https://j.gifs.com/ZY7jvv.gif)](https://j.gifs.com/ZY7jvv.gif)
 
-[![Demo CountPages alpha](https://j.gifs.com/BN34Ox.gif)](https://j.gifs.com/BN34Ox.gif)
+[![Demo CountPages alpha]()]()
 
-[![Demo CountPages alpha](https://j.gifs.com/nxwK64.gif)](https://j.gifs.com/nxwK64.gif)
+[![Demo CountPages alpha]()]()
 
 [![Demo CountPages alpha](https://j.gifs.com/L734BW.gif)](https://j.gifs.com/L734BW.gif)
 
