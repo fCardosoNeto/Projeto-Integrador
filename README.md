@@ -12,45 +12,34 @@ Desenvolver um sistema de gerenciamento de controle de jornada de trabalho de mo
 - Facilidade do usuário marcar seu período de trabalho.
 - Facilidade do administrador em analisar os dados de seus funcionários.
 
-# Integrantes do Projeto:
-- [Francisco Cardoso](https://github.com/fCardosoNeto) - Scrum Master 
-- [Vitor Yuri Santos](https://guthub.com/Vitor-y) - Product Owner
-- [Bruno Alexande Freire](https://github.com/brunofreire2001) - DEV Team
-- [Felipe Silva](https://github.com/Felipe-Silva2002) - DEV Team
-- [Ana Paula Santos de Oliveira](https://github.com/AnaPaulaSOliveira) - DEV Team
-
-# Sprints Cards
-
-## Sprint 0
-
-Faremos a documentação do github e toda previsão de funcionalidade do projeto, para, com isso teremos maior gerenciamento a problemática estabelecidade pela empresa e maior clareza do futuro do projeto
-
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_1.png" width="750px" height="400px"/></p>
-
-[Branch 1](link)
-
-## Sprint 1
-
-Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa
-
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_2.png" width="750px" height="400px"/></p>
-
-[Branch 2](link)
-
-## Sprint 2
-
-Desenvolveremos uma criação de tarefas feitas pelo administrador onde ele escolherá um usuário e um veículo para o local que ele desejar, o usuário poderá definir o início e o fim da tarefa, além da visualização da tabela da tarefa 
-
-<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Card_3.png" width="750px" height="400px"/></p>
-
-[Branch 3](link)
-
 ## Sprint 3
 
 O administrador terá total acesso sobre os relatórios do usuário e correção de erros e possíveis falhas no sistema.
 
-<img src="" width="750px" height="400px"/></p>
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Cards/Sprint_3.png" width="750px" height="400px"/></p>
 
 [Branch 4](link)
 
+# Gráfico Burndown 
+
+<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gr%C3%A1fico_Burndown/Burndown_Sprint3.png" width="750px" height="400px"/></p>
+
+## User Storie
+
+Link para acessar(https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/User_Stories.png)
+
 # Wireframes
+
+[![Demo CountPages alpha](https://j.gifs.com/nxwK84.gif)](https://j.gifs.com/nxwK84.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/ZY7jvv.gif)](https://j.gifs.com/ZY7jvv.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/BN34Ox.gif)](https://j.gifs.com/BN34Ox.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/nxwK64.gif)](https://j.gifs.com/nxwK64.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/L734BW.gif)](https://j.gifs.com/L734BW.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/2xKVJP.gif)](https://j.gifs.com/2xKVJP.gif)
+
+[![Demo CountPages alpha](https://j.gifs.com/p8yMVr.gif)](https://j.gifs.com/p8yMVr.gif)
