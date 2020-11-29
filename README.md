@@ -28,16 +28,16 @@ O administrador terá total acesso sobre os relatórios do usuário e correção
 
 # Wireframes
 
-[![Demo CountPages alpha](https://j.gifs.com/nxwK84.gif)](https://j.gifs.com/nxwK84.gif)
+[<img src="https://j.gifs.com/nxwK84.gif" width="80%">](https://j.gifs.com/nxwK84.gif)
 
-[![Demo CountPages alpha](https://j.gifs.com/ZY7jvv.gif)](https://j.gifs.com/ZY7jvv.gif)
+[<img src="https://j.gifs.com/ZY7jvv.gif" width="80%">](https://j.gifs.com/ZY7jvv.gif)
 
-[![Demo CountPages alpha]()]()
+[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_usuario.gif)
 
-[![Demo CountPages alpha]()]()
+[<img src="https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif" width="80%">](https://github.com/Vitor-y/Projeto-Integrador/blob/main/Img-Projeto/Gifs/tela_cadastro_veiculo.gif)
 
-[![Demo CountPages alpha](https://j.gifs.com/L734BW.gif)](https://j.gifs.com/L734BW.gif)
+[<img src="https://j.gifs.com/L734BW.gif" width="80%">](https://j.gifs.com/L734BW.gif)
 
-[![Demo CountPages alpha](https://j.gifs.com/2xKVJP.gif)](https://j.gifs.com/2xKVJP.gif)
+[<img src="https://j.gifs.com/2xKVJP.gif" width="80%">](https://j.gifs.com/2xKVJP.gif)
 
-[![Demo CountPages alpha](https://j.gifs.com/p8yMVr.gif)](https://j.gifs.com/p8yMVr.gif)
+[<img src="https://j.gifs.com/p8yMVr.gif" width="80%">](https://j.gifs.com/p8yMVr.gif)
